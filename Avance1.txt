@@ -29,8 +29,7 @@ Lluvia de ideas - WEB
 
 idea 1 -  Comentario de una persona que vive en Madrid - Hay una empresa donde tú solicitas que hagan las compras del mercado y ellos envían a alguien que haga las compras del mercado por ti, esta persona a la que la empresa envía es alguien especializado en alimento y escogerá muy bien los productos. ( imagino algo similar a Uber)
 
-
-Idea 2 - Interfaz web que te permita visualizar en tiempo real los consumos del hogar, de tal manera que se pueda tener un mejor control de los gastos del hogar (agua, luz, gas, …) 
+  
 	
 https://play.google.com/store/apps/details?id=pe.tumicro.android&hl=es
 http://elcomercio.pe/economia/peru/desarrollo-apps-promete-revolucionar-mercado-bodegas-noticia-1938536
