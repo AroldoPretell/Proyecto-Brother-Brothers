@@ -1,0 +1,73 @@
+Domingo 26 de Marzo 2017
+Sección : IS211-C41A
+Nombre de la Consultora: Brothers & Brothers S.A.C.
+Relación de participantes en el equipo:
+Torres Ferreyra, Sadrac - U201615740
+Pretell Alvarez, Aroldo Roberto - U201614741
+Tacza Reyes, Eleazar Franco - U201603615
+Suarez Barzola, Miguel Angel -  U201616037
+Indicar qué participante es el coordinador del curso e incluir su correo electrónico.
+Coordinador : Torres Ferreyra, Sadrac - U201615740 (sadescorp2164syt@gmail.com)
+Resumir en un máximo de dos párrafos, el alcance del proyecto, incluyendo las características que el grupo incluirá en la aplicación como elemento diferenciador de su propuesta.
+Alcance del Proyecto
+El proyecto surge para cubrir la demanda que existe de productos alimenticios y evitar el traslado hacia las entidades comerciales para realizar las compras. De este modo, el usuario puede obtener sus productos en el lugar que desee y a la hora que desee, y disponer de su tiempo como prefiera.
+A través de la web el usuario podrá seleccionar los productos que desee, escoger la dirección y la hora de entrega, visualizar los costos de los mismos, y elegir una forma de pago (efectivo, tarjeta de débito, tarjeta de crédito).
+A través de la web se podrá escoger los productos, visualizar los precios y el costo de envío. También, se podrá escoger la hora y lugar de entrega del pedido.
+
+Características
+Login del Web Site
+Lista de Precios de Productos a Comprar
+Lista de Costos de Envío
+Emisión de Guías de Remisión para el Delivery
+
+Enlace al repositorio de control de versiones en Git (Alojado en http://github.com ó http://bitbucket.org) creado para el proyecto.
+Enlace al proyecto de Wireframing en alguna de las plataformas sugeridas (http://mybalsamiq.com, http://mockflow.com, http://justinmind.com).
+Confirmación de que se ha incluido como colaborador en el repositorio de Git y el proyecto de Wireframing al instructor del curso (Publicaremos como anuncio cuáles son las cuentas de usuario del profesor de la sección en las plataformas indicadas).
+ 
+
+Lluvia de ideas - WEB
+
+idea 1 -  Comentario de una persona que vive en Madrid - Hay una empresa donde tú solicitas que hagan las compras del mercado y ellos envían a alguien que haga las compras del mercado por ti, esta persona a la que la empresa envía es alguien especializado en alimento y escogerá muy bien los productos. ( imagino algo similar a Uber)
+
+
+Idea 2 - Interfaz web que te permita visualizar en tiempo real los consumos del hogar, de tal manera que se pueda tener un mejor control de los gastos del hogar (agua, luz, gas, …) 
+	
+https://play.google.com/store/apps/details?id=pe.tumicro.android&hl=es
+http://elcomercio.pe/economia/peru/desarrollo-apps-promete-revolucionar-mercado-bodegas-noticia-1938536
+http://larepublica.pe/empresa/738038-startup-peru-los-10-negocios-mas-populares
+
+
+Proyecto Compras Delivery
+
+Info: A través de la web se podrá escoger los productos, visualizar los precios y el costo de envío. También, se podrá escoger la hora y entrega del pedido.
+
+Problemas a resolver
+
+Calcular el costo de envío de los productos al usuario.
+Programar o establecer donde se comprarán los productos.
+Actualizar precio de los productos (suelen variar).
+
+Componentes de la WEB
+
+Barra de búsqueda
+Registro de usuario 
+GPS - google map (ubicación del usuario)
+Lista de productos buscados con imágen
+Detalle de precio, producto.
+Carrito de compras
+Interfaz de pago
+
+
+
+El coordinador de cada equipo de Trabajo debe subir un documento con el nombre DEW201X00<secciÓn>.DOCX que incluya:
+Fecha.
+Sección.
+Nombre de la Consultora.
+Relación de participantes en el equipo.
+Indicar qué participante es el coordinador del curso e incluir su correo electrónico.
+Resumir en un máximo de dos párrafos, el alcance del proyecto, incluyendo las características que el grupo incluirá en la aplicación como elemento diferenciador de su propuesta.
+Enlace al repositorio de control de versiones en Git (Alojado en http://github.com ó http://bitbucket.org) creado para el proyecto.
+Enlace al proyecto de Wireframing en alguna de las plataformas sugeridas (http://mybalsamiq.com, http://mockflow.com, http://justinmind.com).
+Confirmación de que se ha incluido como colaborador en el repositorio de Git y el proyecto de Wireframing al instructor del curso (Publicaremos como anuncio cuáles son las cuentas de usuario del profesor de la sección en las plataformas indicadas).
+
+
