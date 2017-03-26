@@ -1,36 +1,39 @@
+prueba de cambios 
+
+
 Domingo 26 de Marzo 2017
-SecciÛn : IS211-C41A
+Secci√≥n : IS211-C41A
 Nombre de la Consultora: Brothers & Brothers S.A.C.
-RelaciÛn de participantes en el equipo:
+Relaci√≥n de participantes en el equipo:
 Torres Ferreyra, Sadrac - U201615740
 Pretell Alvarez, Aroldo Roberto - U201614741
 Tacza Reyes, Eleazar Franco - U201603615
 Suarez Barzola, Miguel Angel -  U201616037
-Indicar quÈ participante es el coordinador del curso e incluir su correo electrÛnico.
+Indicar qu√© participante es el coordinador del curso e incluir su correo electr√≥nico.
 Coordinador : Torres Ferreyra, Sadrac - U201615740 (sadescorp2164syt@gmail.com)
-Resumir en un m·ximo de dos p·rrafos, el alcance del proyecto, incluyendo las caracterÌsticas que el grupo incluir· en la aplicaciÛn como elemento diferenciador de su propuesta.
+Resumir en un m√°ximo de dos p√°rrafos, el alcance del proyecto, incluyendo las caracter√≠sticas que el grupo incluir√° en la aplicaci√≥n como elemento diferenciador de su propuesta.
 Alcance del Proyecto
 El proyecto surge para cubrir la demanda que existe de productos alimenticios y evitar el traslado hacia las entidades comerciales para realizar las compras. De este modo, el usuario puede obtener sus productos en el lugar que desee y a la hora que desee, y disponer de su tiempo como prefiera.
-A travÈs de la web el usuario podr· seleccionar los productos que desee, escoger la direcciÛn y la hora de entrega, visualizar los costos de los mismos, y elegir una forma de pago (efectivo, tarjeta de dÈbito, tarjeta de crÈdito).
-A travÈs de la web se podr· escoger los productos, visualizar los precios y el costo de envÌo. TambiÈn, se podr· escoger la hora y lugar de entrega del pedido.
+A trav√©s de la web el usuario podr√° seleccionar los productos que desee, escoger la direcci√≥n y la hora de entrega, visualizar los costos de los mismos, y elegir una forma de pago (efectivo, tarjeta de d√©bito, tarjeta de cr√©dito).
+A trav√©s de la web se podr√° escoger los productos, visualizar los precios y el costo de env√≠o. Tambi√©n, se podr√° escoger la hora y lugar de entrega del pedido.
 
-CaracterÌsticas
+Caracter√≠sticas
 Login del Web Site
 Lista de Precios de Productos a Comprar
-Lista de Costos de EnvÌo
-EmisiÛn de GuÌas de RemisiÛn para el Delivery
+Lista de Costos de Env√≠o
+Emisi√≥n de Gu√≠as de Remisi√≥n para el Delivery
 
-Enlace al repositorio de control de versiones en Git (Alojado en http://github.com Û http://bitbucket.org) creado para el proyecto.
+Enlace al repositorio de control de versiones en Git (Alojado en http://github.com √≥ http://bitbucket.org) creado para el proyecto.
 Enlace al proyecto de Wireframing en alguna de las plataformas sugeridas (http://mybalsamiq.com, http://mockflow.com, http://justinmind.com).
-ConfirmaciÛn de que se ha incluido como colaborador en el repositorio de Git y el proyecto de Wireframing al instructor del curso (Publicaremos como anuncio cu·les son las cuentas de usuario del profesor de la secciÛn en las plataformas indicadas).
+Confirmaci√≥n de que se ha incluido como colaborador en el repositorio de Git y el proyecto de Wireframing al instructor del curso (Publicaremos como anuncio cu√°les son las cuentas de usuario del profesor de la secci√≥n en las plataformas indicadas).
  
 
 Lluvia de ideas - WEB
 
-idea 1 -  Comentario de una persona que vive en Madrid - Hay una empresa donde t˙ solicitas que hagan las compras del mercado y ellos envÌan a alguien que haga las compras del mercado por ti, esta persona a la que la empresa envÌa es alguien especializado en alimento y escoger· muy bien los productos. ( imagino algo similar a Uber)
+idea 1 -  Comentario de una persona que vive en Madrid - Hay una empresa donde t√∫ solicitas que hagan las compras del mercado y ellos env√≠an a alguien que haga las compras del mercado por ti, esta persona a la que la empresa env√≠a es alguien especializado en alimento y escoger√° muy bien los productos. ( imagino algo similar a Uber)
 
 
-Idea 2 - Interfaz web que te permita visualizar en tiempo real los consumos del hogar, de tal manera que se pueda tener un mejor control de los gastos del hogar (agua, luz, gas, Ö) 
+Idea 2 - Interfaz web que te permita visualizar en tiempo real los consumos del hogar, de tal manera que se pueda tener un mejor control de los gastos del hogar (agua, luz, gas, ‚Ä¶) 
 	
 https://play.google.com/store/apps/details?id=pe.tumicro.android&hl=es
 http://elcomercio.pe/economia/peru/desarrollo-apps-promete-revolucionar-mercado-bodegas-noticia-1938536
@@ -39,35 +42,35 @@ http://larepublica.pe/empresa/738038-startup-peru-los-10-negocios-mas-populares
 
 Proyecto Compras Delivery
 
-Info: A travÈs de la web se podr· escoger los productos, visualizar los precios y el costo de envÌo. TambiÈn, se podr· escoger la hora y entrega del pedido.
+Info: A trav√©s de la web se podr√° escoger los productos, visualizar los precios y el costo de env√≠o. Tambi√©n, se podr√° escoger la hora y entrega del pedido.
 
 Problemas a resolver
 
-Calcular el costo de envÌo de los productos al usuario.
-Programar o establecer donde se comprar·n los productos.
+Calcular el costo de env√≠o de los productos al usuario.
+Programar o establecer donde se comprar√°n los productos.
 Actualizar precio de los productos (suelen variar).
 
 Componentes de la WEB
 
-Barra de b˙squeda
+Barra de b√∫squeda
 Registro de usuario 
-GPS - google map (ubicaciÛn del usuario)
-Lista de productos buscados con im·gen
+GPS - google map (ubicaci√≥n del usuario)
+Lista de productos buscados con im√°gen
 Detalle de precio, producto.
 Carrito de compras
 Interfaz de pago
 
 
 
-El coordinador de cada equipo de Trabajo debe subir un documento con el nombre DEW201X00<secci”n>.DOCX que incluya:
+El coordinador de cada equipo de Trabajo debe subir un documento con el nombre DEW201X00<secci√ìn>.DOCX que incluya:
 Fecha.
-SecciÛn.
+Secci√≥n.
 Nombre de la Consultora.
-RelaciÛn de participantes en el equipo.
-Indicar quÈ participante es el coordinador del curso e incluir su correo electrÛnico.
-Resumir en un m·ximo de dos p·rrafos, el alcance del proyecto, incluyendo las caracterÌsticas que el grupo incluir· en la aplicaciÛn como elemento diferenciador de su propuesta.
-Enlace al repositorio de control de versiones en Git (Alojado en http://github.com Û http://bitbucket.org) creado para el proyecto.
+Relaci√≥n de participantes en el equipo.
+Indicar qu√© participante es el coordinador del curso e incluir su correo electr√≥nico.
+Resumir en un m√°ximo de dos p√°rrafos, el alcance del proyecto, incluyendo las caracter√≠sticas que el grupo incluir√° en la aplicaci√≥n como elemento diferenciador de su propuesta.
+Enlace al repositorio de control de versiones en Git (Alojado en http://github.com √≥ http://bitbucket.org) creado para el proyecto.
 Enlace al proyecto de Wireframing en alguna de las plataformas sugeridas (http://mybalsamiq.com, http://mockflow.com, http://justinmind.com).
-ConfirmaciÛn de que se ha incluido como colaborador en el repositorio de Git y el proyecto de Wireframing al instructor del curso (Publicaremos como anuncio cu·les son las cuentas de usuario del profesor de la secciÛn en las plataformas indicadas).
+Confirmaci√≥n de que se ha incluido como colaborador en el repositorio de Git y el proyecto de Wireframing al instructor del curso (Publicaremos como anuncio cu√°les son las cuentas de usuario del profesor de la secci√≥n en las plataformas indicadas).
 
 
