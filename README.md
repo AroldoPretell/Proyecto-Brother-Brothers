@@ -1,2 +1,2 @@
 # Proyecto-Brother-Brothers
-Aroldo, Miguel, Sadrac, Franco.
+Aroldo, Miguel, Sadrac, Franco y Oscar.
